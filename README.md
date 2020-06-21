@@ -4,6 +4,8 @@
 ## Muscle Control
 ![muscle](muscle.jpg)
 
+![muscle gif](sss.gif)
+
 
 ## Glove Control
 ![glove](glove.jpg)
